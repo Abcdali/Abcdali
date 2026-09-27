@@ -1,6 +1,6 @@
 # Hi, I'm Ali Haider 
 
-## Full-Stack AI Developer
+## AI Engineer Specialist
 
 I build modern web applications and integrate AI capabilities using Full-Stack technologies and Generative AI.
 
@@ -14,14 +14,25 @@ I build modern web applications and integrate AI capabilities using Full-Stack t
 - MySQL
 - Python
 - LLM APIs
-- RAG
 - TensorFlow
 - Git/GitHub
+- n8n (Workflow Automation)
 
 ## Featured Projects
 
-🚀 AI PDF Chatbot  
-AI-powered document assistant using RAG and LLM APIs.
+🚀 **AI-Powered HubSpot Lead Scoring System**  
+An automated lead-scoring pipeline that triggers on new HubSpot contact creation, enriches the lead with company research via a LangChain agent, scores fit on a 1–10 scale, and updates HubSpot in real time — including custom properties, deal creation for qualified leads, and activity logging to the contact timeline.
+
+Features:
+- HubSpot webhook trigger on new contact creation
+- LangChain-powered enrichment and AI scoring chain
+- Automatic HubSpot contact updates (AI score, reasoning, recommended action)
+- Conditional deal creation and pipeline assignment for high-fit leads
+- Engagement logging to the contact activity timeline
+- Supabase sync + Next.js dashboard for sorted lead visibility
+- Deployed n8n workflow with GitHub Actions CI/CD
+
+
 
 🚀 Uni Finder  
 Full-stack university platform built with modern web technologies.
@@ -52,6 +63,5 @@ Features:
 
 ## Connect With Me
 
-LinkedIn: your LinkedIn link
+LinkedIn: www.linkedin.com/in/ali-haider-6821253b0
 
-Portfolio: your portfolio link
